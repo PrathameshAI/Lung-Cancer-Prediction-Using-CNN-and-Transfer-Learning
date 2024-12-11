@@ -56,7 +56,8 @@ Close the browser or application after reviewing the predictions.
 ![2ss](https://github.com/user-attachments/assets/c04601b2-95ef-43ab-a2b2-fce6170cdcaa)
 ![3ss](https://github.com/user-attachments/assets/3f600b81-a324-464a-a69b-393eeff496c2)
 ![4ss](https://github.com/user-attachments/assets/f09fe632-d6a0-414b-8427-50e37e1f3591)
-![5ss](https://github.com/user-attachments/assets/f424315b-76ee-4b83-8736-9326e543b59f)
+![5ss](https://github.com/user-attachments/assets/4404f059-96e0-4f2d-a224-9d24dc682bbf)
+
 
 
 
