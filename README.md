@@ -52,10 +52,10 @@ Navigate to the "About" tab to learn more about the project, including the under
 Close the browser or application after reviewing the predictions.
 
 # OUTPUT ---
+![5ss](https://github.com/user-attachments/assets/cdcf95a4-22e2-4ba4-a57b-2e0447a14e68)
+![4ss](https://github.com/user-attachments/assets/0ed26316-a308-43a7-a881-1d6aa40c26ee)
+![3ss](https://github.com/user-attachments/assets/fa91e744-f462-4c25-b8fa-3eec482485e0)
+![2ss](https://github.com/user-attachments/assets/1377543a-b655-4ce4-b50c-6e6e36f5a174)
+![1ss](https://github.com/user-attachments/assets/d91eb20d-c0cb-4bab-a613-cc261609a998)
 
-![5ss](https://github.com/user-attachments/assets/805f31ad-941a-4c56-9918-26f21fd17cc1)
-![4ss](https://github.com/user-attachments/assets/42db96e1-6d7c-4043-8521-3fc88b1a0593)
-![3ss](https://github.com/user-attachments/assets/ad0735f8-7e59-4e31-a853-5c0c7fb97d2a)
-![2ss](https://github.com/user-attachments/assets/5c1bbbf8-6f50-4b68-9985-8f26e277c824)
-![1ss](https://github.com/user-attachments/assets/405eef38-ff1d-43de-8034-bdf7614f54b6)
 
