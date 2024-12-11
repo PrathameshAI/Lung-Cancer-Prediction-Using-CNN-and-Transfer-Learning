@@ -17,7 +17,9 @@ https://drive.google.com/file/d/1C48bb1g_qNYI4t9puNeDqoEQviU0AKYE/view?usp=drive
 
 # REQUIREMENTS ---
 numpy==1.26.3
+
 streamlit==1.30.0
+
 tensorflow==2.15.0.post1
 
 # HOW TO USE ---
