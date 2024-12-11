@@ -53,6 +53,8 @@ Close the browser or application after reviewing the predictions.
 
 # OUTPUT ---
 ![1ss](https://github.com/user-attachments/assets/010be3a3-fe6d-4bd7-b2d6-4e81802b1a1d)
+![2ss](https://github.com/user-attachments/assets/c04601b2-95ef-43ab-a2b2-fce6170cdcaa)
+
 
 
 
