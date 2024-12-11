@@ -1,6 +1,7 @@
 # Lung-Cancer-Prediction-Using-CNN-and-Transfer-Learning
 
-*INTRODUCTION -
+INTRODUCTION ---
+
 Lung cancer is one of the leading causes of cancer-related deaths worldwide and its mortality rate is 19.4%. Early detection of lung tumor is done by using many imaging techniques such as Computed Tomography (CT), Sputum Cytology, Chest X-ray and Magnetic Resonance Imaging (MRI). Detection means classifying tumor two classes (i)non-cancerous tumor (benign) and (ii)cancerous tumor (malignant).   
 Neural network plays a key role in the recognition of the cancer cells among the normal tissues, which in turn provides an effective tool for building an assistive AI based cancer detection. Accurate classification and early detection are essential for effective treatment and improving patient survival.    
 The aim of the project is to develop an efficient and accurate model for predicting lung cancer from medical images, specifically CT scans, using Convolutional Neural Networks (CNN) and transfer learning.   
