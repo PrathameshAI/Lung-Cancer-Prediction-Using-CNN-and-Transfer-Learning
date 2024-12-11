@@ -15,3 +15,47 @@ Lung cancer is a critical health challenge, and early detection is crucial for i
 # MAIN CODE ---
 https://drive.google.com/file/d/1C48bb1g_qNYI4t9puNeDqoEQviU0AKYE/view?usp=drive_link
 
+# REQUIREMENTS ---
+numpy==1.26.3
+streamlit==1.30.0
+tensorflow==2.15.0.post1
+
+# HOW TO USE ---
+1. Open the Application
+Launch the website or application built using Streamlit for lung cancer prediction.
+
+2. Navigate to the Home Page
+The Home Page provides an overview of the application, including its purpose and how it works.
+Review the information to understand the project.
+
+3. Go to the Predict Page
+Click on the "Predict" tab or button from the navigation menu to access the prediction functionality.
+
+4. Upload a CT Scan Image
+On the Predict Page, locate the image upload section.
+Click the "Browse Files" button to upload a CT scan image from your device.
+Ensure the uploaded image is in the required format (e.g., .png or .jpg).
+
+5. Start the Prediction
+After uploading the image, the system automatically preprocesses it and feeds it into the trained deep learning model.
+Wait for the prediction results to be displayed.
+
+6. View the Prediction Results
+The interface will show:
+The predicted type of lung cancer (e.g., Adenocarcinoma, Large Cell Carcinoma, Squamous Cell Carcinoma, or Normal).
+The probability scores for each category.
+
+7. Explore the About Section
+Navigate to the "About" tab to learn more about the project, including the underlying technology, datasets, and objectives.
+
+8. Exit the Application
+Close the browser or application after reviewing the predictions.
+
+# OUTPUT ---
+
+![5ss](https://github.com/user-attachments/assets/805f31ad-941a-4c56-9918-26f21fd17cc1)
+![4ss](https://github.com/user-attachments/assets/42db96e1-6d7c-4043-8521-3fc88b1a0593)
+![3ss](https://github.com/user-attachments/assets/ad0735f8-7e59-4e31-a853-5c0c7fb97d2a)
+![2ss](https://github.com/user-attachments/assets/5c1bbbf8-6f50-4b68-9985-8f26e277c824)
+![1ss](https://github.com/user-attachments/assets/405eef38-ff1d-43de-8034-bdf7614f54b6)
+
