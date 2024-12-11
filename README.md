@@ -55,7 +55,9 @@ Close the browser or application after reviewing the predictions.
 
 # RESULT ---
 The model achieved a classification accuracy of 93%, demonstrating its ability to accurately predict lung cancer types based on CT scan images. The results are compared with traditional diagnostic methods, showing significant improvement in accuracy and diagnostic time. The model’s 93% classification accuracy reflects its robust capability to analyse and predict lung cancer types from CT scan images, a critical advancement in oncological diagnostics. When compared to traditional methods, which often rely on manual interpretation by radiologists, this model not only improves accuracy but also significantly reduces diagnostic time. Traditional approaches can take hours or even days to yield results, while the CNN-based model can provide near-instantaneous predictions, facilitating quicker treatment decisions.  
-  
+
+# VIDEO EXPLAINATION ---
+https://drive.google.com/file/d/1wP_ZgsaDJHPaqP01nImXEF-2iLmCqPFG/view?usp=drive_link
 
 # OUTPUT ---
 ![1ss](https://github.com/user-attachments/assets/010be3a3-fe6d-4bd7-b2d6-4e81802b1a1d)
